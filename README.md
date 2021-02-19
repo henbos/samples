@@ -1,3 +1,7 @@
+# THIS IS A FORK OF WEBRTC/SAMPLES WITH LOCAL CHANGES
+
+FOR THIS REPO'S VIEW OF THE WEB PAGES, SEE [henbos.github.io/samples](https://henbos.github.io/samples/).
+
 # WebRTC Code Samples
 
 This is a repository for the WebRTC JavaScript code samples. All of the samples can be tested from [webrtc.github.io/samples](https://webrtc.github.io/samples).
